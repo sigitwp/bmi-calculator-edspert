@@ -1,4 +1,4 @@
-# bmi-calculator-edspert
+# bmi_calculator_edspert
 
 Flutter Application - Body Mass Index (BMI) Calculator
 
