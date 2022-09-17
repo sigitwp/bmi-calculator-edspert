@@ -5,19 +5,19 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "bmi",
+            "name": "bmi_calculator_edspert",
             "request": "launch",
             "deviceId": "chrome",
             "type": "dart"
         },
         {
-            "name": "bmi (profile mode)",
+            "name": "bmi_calculator_edspert (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "bmi (release mode)",
+            "name": "bmi_calculator_edspert (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"
