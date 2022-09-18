@@ -226,7 +226,10 @@ class _BmiDataScreenState extends State<BmiDataScreen> {
                   children: [
                     Text(
                       "WEIGHT",
-                      style: labelTextStyle,
+                      style: labelTextStyle.copyWith(
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold,
+                      ),
                     ),
                     BmiCard(
                       child: Column(
@@ -258,7 +261,10 @@ class _BmiDataScreenState extends State<BmiDataScreen> {
                   children: [
                     Text(
                       "AGE",
-                      style: labelTextStyle,
+                      style: labelTextStyle.copyWith(
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold,
+                      ),
                     ),
                     BmiCard(
                       child: Column(
