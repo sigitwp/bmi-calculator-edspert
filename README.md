@@ -4,7 +4,7 @@ Flutter Application - Body Mass Index (BMI) Calculator
 
 ## Screenshot BMI Apps:
 
-<img src="https://user-images.githubusercontent.com/6770027/190911263-d2366e5f-c2f9-4504-9825-18cd167681d3.png" width="500">
+<p style="text-align:center"><img alt="bmi home" src="https://user-images.githubusercontent.com/6770027/190911263-d2366e5f-c2f9-4504-9825-18cd167681d3.png" style="float:left; height:622px; width:300px" /><img alt="bmi hasil hitung" src="https://user-images.githubusercontent.com/6770027/190911507-75a18873-5f96-4286-b960-a02246461dba.png" style="height:627px; width:300px" /></p>
 
 ![Screenshot 2022-09-18 210637](https://user-images.githubusercontent.com/6770027/190911263-d2366e5f-c2f9-4504-9825-18cd167681d3.png)
 ![Screenshot 2022-09-18 210720](https://user-images.githubusercontent.com/6770027/190911507-75a18873-5f96-4286-b960-a02246461dba.png)
