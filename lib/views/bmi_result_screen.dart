@@ -80,7 +80,7 @@ class BmiResultScreen extends StatelessWidget {
                 style: TextStyle(
                   fontSize: 40,
                   fontWeight: FontWeight.bold,
-                  color: Colors.white,
+                  color: primaryColor,
                 ),
               ),
             ),
@@ -100,7 +100,7 @@ class BmiResultScreen extends StatelessWidget {
                       style: const TextStyle(
                         fontSize: 20,
                         fontWeight: FontWeight.bold,
-                        color: Colors.white,
+                        color: primaryColor,
                       ),
                     ),
                     Text(
@@ -108,7 +108,7 @@ class BmiResultScreen extends StatelessWidget {
                       style: const TextStyle(
                         fontSize: 100,
                         fontWeight: FontWeight.bold,
-                        color: Colors.white,
+                        color: primaryColor,
                       ),
                     ),
                     Text(
@@ -117,7 +117,7 @@ class BmiResultScreen extends StatelessWidget {
                       textAlign: TextAlign.center,
                       style: const TextStyle(
                         fontSize: 15,
-                        color: Colors.white,
+                        color: primaryColor,
                       ),
                     ),
                   ],
@@ -131,14 +131,15 @@ class BmiResultScreen extends StatelessWidget {
             },
             child: Container(
               height: 80,
-              color: const Color(0xffec3c66),
+              color: const Color(0xff517df6),
               child: const Center(
                 child: Text(
                   "Hitung Ulang",
                   style: TextStyle(
-                      fontSize: 25,
-                      fontWeight: FontWeight.bold,
-                      color: Colors.white),
+                    fontSize: 25,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white,
+                  ),
                 ),
               ),
             ),
