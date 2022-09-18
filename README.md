@@ -3,7 +3,7 @@
 Flutter Application - Body Mass Index (BMI) Calculator
 
 ## Screenshot BMI Apps:
-![Screenshot 2022-09-18 210637](https://user-images.githubusercontent.com/6770027/190911263-d2366e5f-c2f9-4504-9825-18cd167681d3.png width="50px")
+![Screenshot 2022-09-18 210637](https://user-images.githubusercontent.com/6770027/190911263-d2366e5f-c2f9-4504-9825-18cd167681d3.png) {:height="36px" width="36px"}
 
 ![Screenshot 2022-09-18 210720](https://user-images.githubusercontent.com/6770027/190911507-75a18873-5f96-4286-b960-a02246461dba.png)
 
